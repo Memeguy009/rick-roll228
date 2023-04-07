@@ -1,0 +1,18 @@
+body
+{background-color:hsl(59, 92%, 49%);
+}
+table 
+{border: 20px solid #f8f8f8;}
+td
+{border: 20px solid #7700ff;}
+.biba
+{height: 250px;}
+.boba
+{height: 250px;
+width: 300px;}
+.papaisdad
+{color: tomato;
+text-align: center;}
+.nobiba
+{color: tomato;
+text-align: center;}
